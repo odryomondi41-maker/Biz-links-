@@ -1,0 +1,7 @@
+{
+  "name": "Odry Studio — AI Website & App Builder Kenya",
+  "description": "Odry Studio is Kenya's AI-powered platform to build websites, mobile apps, web applications, booking systems, business management systems, and custom digital solutions.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
